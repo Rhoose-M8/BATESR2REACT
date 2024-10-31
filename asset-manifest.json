@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/BATESR2REACT/static/css/main.e6c13ad2.css",
+    "main.js": "/BATESR2REACT/static/js/main.f1d7adf3.js",
+    "static/js/453.3f15bb65.chunk.js": "/BATESR2REACT/static/js/453.3f15bb65.chunk.js",
+    "static/media/s22.jpg": "/BATESR2REACT/static/media/s22.2591216465ae616a7f14.jpg",
+    "static/media/pop_socket.jpg": "/BATESR2REACT/static/media/pop_socket.87f6eb9df97f1522fd59.jpg",
+    "static/media/power_bank.jpg": "/BATESR2REACT/static/media/power_bank.75daf15793dfdb36bb97.jpg",
+    "static/media/s12.jpg": "/BATESR2REACT/static/media/s12.f7b267112106da367239.jpg",
+    "static/media/usb_cable.jpg": "/BATESR2REACT/static/media/usb_cable.04af7173b0f347396593.jpg",
+    "static/media/car_mount.jpg": "/BATESR2REACT/static/media/car_mount.04392f5f639ae03a6188.jpg",
+    "static/media/phone_case.jpg": "/BATESR2REACT/static/media/phone_case.0d7c360f84970578ccfc.jpg",
+    "static/media/s10.jpg": "/BATESR2REACT/static/media/s10.a766b8bdc7f088cb673d.jpg",
+    "static/media/headphone_adapter.jpg": "/BATESR2REACT/static/media/headphone_adapter.e0722a218d20bb01a20d.jpg",
+    "static/media/screen_protector.jpg": "/BATESR2REACT/static/media/screen_protector.d0b783eafe7638a4bf39.jpg",
+    "static/media/a10.jpg": "/BATESR2REACT/static/media/a10.a027463d14214499f469.jpg",
+    "static/media/earbuds.jpg": "/BATESR2REACT/static/media/earbuds.b968160da92993b69b9a.jpg",
+    "static/media/default_user-icon.jpg": "/BATESR2REACT/static/media/default_user-icon.db3ce8b99c8982e91c4b.jpg",
+    "static/media/a12.jpg": "/BATESR2REACT/static/media/a12.f296d4b4444b8139fa9d.jpg",
+    "index.html": "/BATESR2REACT/index.html",
+    "main.e6c13ad2.css.map": "/BATESR2REACT/static/css/main.e6c13ad2.css.map",
+    "main.f1d7adf3.js.map": "/BATESR2REACT/static/js/main.f1d7adf3.js.map",
+    "453.3f15bb65.chunk.js.map": "/BATESR2REACT/static/js/453.3f15bb65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f1d7adf3.js"
+  ]
+}
